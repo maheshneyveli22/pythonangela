@@ -1,0 +1,6 @@
+https://docs.python.org/3/library/functions.html
+
+code blocks 
+Indentation 
+Functions
+While loops 
